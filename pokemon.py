@@ -8,7 +8,7 @@ def get_all_pokemon():
     return all_pokemon
 
 def load_all_pokemon():
-    with open('pokemon.json', 'r') as json_file:
+    with open('/usr/bot/pokecatch/pokemon.json', 'r') as json_file:
         return json.load(json_file)
 
 def get_random_pokemon(all_pokemon):
