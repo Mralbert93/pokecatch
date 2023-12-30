@@ -6,6 +6,7 @@ This bot allows you to encounter Pokemon in the wild that you can catch.
 ## Commands
 `/region` - displays region selection menu
 
+
 `/user` - displays user profile and pokemon caught
 
 ## Support
